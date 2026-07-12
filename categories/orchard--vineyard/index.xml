@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Orchard &amp; Vineyard on WOND Mower</title>
+		<link>https://jackfine18.github.io/wondmower/categories/orchard--vineyard/</link>
+		<description>Recent content in Orchard &amp; Vineyard on WOND Mower</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="https://jackfine18.github.io/wondmower/categories/orchard--vineyard/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>H-550S Remote Control Lawn Mower</title>
+				<link>https://jackfine18.github.io/wondmower/products/550s/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://jackfine18.github.io/wondmower/products/550s/</guid>
+				<description>Wheeled 550mm mower for orchards, vineyards and flat municipal areas.</description>
+			</item>
+			<item>
+				<title>H-H900L Remote Control Lawn Mower</title>
+				<link>https://jackfine18.github.io/wondmower/products/900l/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://jackfine18.github.io/wondmower/products/900l/</guid>
+				<description>900mm heavy-duty tracked mower with 60° climbing for steep terrain.</description>
+			</item>
+	</channel>
+</rss>
